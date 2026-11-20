@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: biodermika-web
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .
